@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\mysite",
+    "\\mysite\\mysite",
+    "\\mysite\\polls",
+    "\\mysite\\polls\\templates\\polls"
+  ],
+  "SelectedNode": "\\mysite\\polls\\models.py",
+  "PreviewInSolutionExplorer": false
+}
